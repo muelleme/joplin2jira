@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "name.mikemueller.joplin2jira",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "joplin2jira",
+	"description": "Copies selected text or entire notes in Jira markup to the clipboard",
+	"author": "Mike Müller",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": ["jira", "atlassian", "export"],
+	"categories": []
+}
